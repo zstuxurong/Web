@@ -16,4 +16,8 @@ public class test {
     public void testB(){
         System.out.println("sahdk");
     }
+
+    public void testC(){
+        System.out.println("sfdj");
+    }
 }
