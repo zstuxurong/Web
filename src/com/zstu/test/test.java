@@ -20,4 +20,8 @@ public class test {
     public void testC(){
         System.out.println("sfdj");
     }
+
+    public void a(){
+        int a ;
+    }
 }
