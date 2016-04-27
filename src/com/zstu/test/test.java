@@ -1,0 +1,13 @@
+package com.zstu.test;
+
+/**
+ * 测试类
+ * Created by xurong on 2016/4/27.
+ */
+public class test {
+
+    public static void main(String[] args) {
+        System.out.println("haha");
+    }
+
+}
