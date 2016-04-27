@@ -10,4 +10,7 @@ public class test {
         System.out.println("haha");
     }
 
+    public void testA(){
+        System.out.println("hahads");
+    }
 }
