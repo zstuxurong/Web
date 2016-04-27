@@ -13,4 +13,7 @@ public class test {
     public void testA(){
         System.out.println("hahads");
     }
+    public void testB(){
+        System.out.println("sahdk");
+    }
 }
